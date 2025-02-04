@@ -1,7 +1,5 @@
 # Weather-forcast
 # Weather Forecast Website ✏️ A simple website to show the weather forecast of cities all over the world ❗  
-# Project deployed at
-<a href="https://aliazam1291.github.io/Weather-forcast/">Weather forecast</a>
 # Chennai
 ![chennai](https://user-images.githubusercontent.com/71867983/215320408-dd579b40-f676-46b1-b57b-4cff5054e8b5.png)
 # Lucknow
